@@ -8,9 +8,10 @@ Explore how the LIATE rule helps you choose which part of a product becomes **u*
 
 ## ✨ Preview
 
-> Save your screenshot as `assets/integralmaster-ui.png` in the project root, or adjust the path below to match where you store it.
 
-![IntegralMaster UI – LIATE visualizer](assets/integralmaster-ui.png)
+
+<img width="2878" height="1614" alt="image" src="https://github.com/user-attachments/assets/0694e792-550a-4891-918c-3592ce698bcd" />
+
 
 ---
 
